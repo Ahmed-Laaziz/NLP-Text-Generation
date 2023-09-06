@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌟 SmartDocs 🌟 - We care about your health </h1>
+  <h1>🌟 SmartDocs 🌟</h1>
 </div>
 
 
