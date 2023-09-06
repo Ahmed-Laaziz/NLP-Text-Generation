@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌟 Medical 🌟 - We care about your health </h1>
+  <h1>🌟 SmartDocs 🌟 - We care about your health </h1>
 </div>
 
 
@@ -8,14 +8,7 @@
 </div>
 
 # Contexte général du projet
-La radiographie céphalométrique est couramment utilisée comme outil standard dans
-le diagnostic orthodontique et la planification du traitement, ainsi que dans la planification de la chirurgie corrective et plastique. Le marquage des repères anatomiques du
-crâne et des tissus mous environnants dans les céphalogrammes latéraux est une partie
-essentielle du processus de diagnostic et de planification. Les repères céphalométriquessont 
-utilisés pour un certain nombre d’analyses orthodontiques (par exemple Schwarz,
-Steiner, Ricketts) où plusieurs mesures linéaires et angulaires sont calculées à partir de
-leurs positions. La précision avec laquelle les repères sont situés a un impact direct sur
-les résultats des analyses effectuées et les décisions de traitement qui en résultent
+Le contexte général de ce projet est centré sur la création d'un outil basé sur le traitement automatique du langage naturel (NLP) pour aider les chercheurs et les auteurs à rédiger des articles scientifiques de manière plus efficace et précise. L'objectif est de simplifier le processus de rédaction tout en garantissant la qualité et la cohérence des articles scientifiques.
 
 # Django
 
